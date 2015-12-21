@@ -7,7 +7,8 @@ public class d0248384 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.print("d0248384\n");
-		System.out.print("´¿´¼¨}");
+		System.out.print("ï¿½ï¿½ï¿½ï¿½ï¿½\n}");
+		System.out.print("Chih Liang Tseng");
 
 	}
 
